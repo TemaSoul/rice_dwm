@@ -1,0 +1,18 @@
+# Игнорируем скомпилированные файлы DWM и утилит
+dwm/*.o
+dwm/dwm
+dwm/dmenu/*.o
+dwm/dmenu/dmenu
+dwm/dmenu/stest
+dwm/st/*.o
+dwm/st/st
+
+# Игнорируем сгенерированные config.h (храним только config.def.h)
+dwm/config.h
+dwm/dmenu/config.h
+dwm/st/config.h
+
+# Игнорируем исполняемые скрипты-обёртки
+dwm/dmenu/dmenu_path
+dwm/dmenu/dmenu_run
+EOF
