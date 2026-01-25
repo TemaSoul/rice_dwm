@@ -19,7 +19,7 @@ firefox &
 #unlock-user-doas
 sh /home/tema/scripts/unlock-user &
 # Установка обоев
-feh --bg-fill /home/tema/.wallpaper/_DSC6362.png &
+feh --bg-fill /home/tema/.wallpaper/_DSC6357.png &
 # Запускаем DWM
 #while true; do
 exec dwm
