@@ -7,7 +7,7 @@
 ## Особенности
 *   Собранные патчи: нет
 *   Цветовая схема: gruvbox
-*   Используемые утилиты: dmenu, st, clipmenu, flameshot
+*   Используемые утилиты: dmenu, st, clipmenu, flameshot, feh
 
 ## Установка
 ```bash
