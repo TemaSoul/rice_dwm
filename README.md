@@ -2,12 +2,12 @@
 Это мой rice для оконного менеджера [DWM](https://dwm.suckless.org/).
 
 ![Скриншот рабочего стола](./screenshots/zlj_2026-02-04_15-45.png)
-![Скриншот рабочего стола 2](./screenshots/2026-01-28_11-13.png)
+![Скриншот рабочего стола 2](./screenshots/2026-01-28_11-13_1.png)
 
 ## Особенности
 *   Собранные патчи: нет
 *   Цветовая схема: gruvbox
-*   Используемые утилиты: dmenu, st, clipmenu, flameshot, feh
+*   Используемые утилиты: dmenu, st, clipmenu, flameshot, feh, zellij, fish, redshift
 
 ## Установка
 ```bash
