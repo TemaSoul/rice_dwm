@@ -7,7 +7,7 @@
 ## Особенности
 *   Собранные патчи: нет
 *   Цветовая схема: gruvbox
-*   Используемые утилиты: dmenu, st, clipmenu, flameshot, feh, zellij, fish, redshift
+*   Используемые утилиты: [dmenu](https://tools.suckless.org/dmenu/), [st](https://st.suckless.org/), [clipmenu](https://github.com/cdown/clipmenu), [flameshot](https://github.com/flameshot-org/flameshot), [feh](https://github.com/derf/feh), [zellij](https://github.com/zellij-org/zellij), [fish](https://github.com/fish-shell/fish-shell), [redshift](https://github.com/jonls/redshift)
 
 ## Установка
 ```bash
