@@ -25,6 +25,3 @@ cp -r dwm ~/.config/
 cd ~/.config/dwm
 sudo make clean install
 
-
-
-
