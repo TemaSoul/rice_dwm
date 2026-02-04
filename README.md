@@ -1,17 +1,17 @@
 # my rice dwm
 это мой rice для оконного менеджера [dwm](https://dwm.suckless.org/).
 
-![скриншот рабочего стола](./screenshots/zlj_2026-02-04_15-45.png)
-![скриншот рабочего стола 2](./screenshots/2026-01-28_11-13_1.png)
+![скриншот рабочего стола zlj](./screenshots/zlj_2026-02-04_15-45.png)
+![скриншот рабочего стола](./screenshots/2026-01-28_11-13_1.png)
 
 ## особенности
 *   собранные патчи: нет
-*   цветовая схема: gruvbox
+*   цветовая схема: `gruvbox`
 *   используемые утилиты: [dmenu](https://tools.suckless.org/dmenu/), [st](https://st.suckless.org/), [clipmenu](https://github.com/cdown/clipmenu), [flameshot](https://github.com/flameshot-org/flameshot), [feh](https://github.com/derf/feh), [zellij](https://github.com/zellij-org/zellij), [fish](https://github.com/fish-shell/fish-shell), [redshift](https://github.com/jonls/redshift)
 
 ## детали настройки
-*   **автозапуск**: скрипт в `~/.config/dwm/autostart.sh` управляет запуском фоновых служб (redshift, flameshot, docker-контейнеры).
-*   **статус-бар**: кастомный скрипт статус-бара (путь: `~/.config/dwm/statusbar.sh`) с выводом системной информации.
+*   **автозапуск**: скрипт в `~/.config/dwm/autostart.sh`
+*   **статус-бар**: `~/.config/dwm/statusbar.sh`
 
 ## зависимости
 *   базовые инструменты сборки: `base-devel`
